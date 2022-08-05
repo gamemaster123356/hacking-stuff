@@ -5,7 +5,9 @@ This repository contains hacking related scripts/programs.
 
 ## How to install scripts/programs
 > For linux:
-`use git or curl`
+
+use git or curl
 
 > For windows:
-`just download manually`
+
+just download manually
